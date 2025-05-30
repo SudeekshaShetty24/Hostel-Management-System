@@ -1,0 +1,8 @@
+CREATE TABLE HostelStudents (
+StudentID INT PRIMARY KEY,
+StudentName VARCHAR(100),
+RoomNumber VARCHAR(10),
+AdmissionDate DATE,
+FeesPaid DECIMAL(10,2),
+PendingFees DECIMAL(10,2)
+);
