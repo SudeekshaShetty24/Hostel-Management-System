@@ -4,7 +4,7 @@ Initial Page        - https://github.com/SudeekshaShetty24/Hostel-Management-Sys
 Add Student         - https://github.com/SudeekshaShetty24/Hostel-Management-System/blob/main/Output/AddStudent.png                                                
 Update Student      - https://github.com/SudeekshaShetty24/Hostel-Management-System/blob/main/Output/UpdateStudent.png                                               
 DeleteStudent       - https://github.com/SudeekshaShetty24/Hostel-Management-System/blob/main/Output/DeleteStudent.png                                          
-Deletereport        - https://github.com/SudeekshaShetty24/Hostel-Management-System/blob/main/Output/Deletereport.png
+Deletereport        - https://github.com/SudeekshaShetty24/Hostel-Management-System/blob/main/Output/Deletereport.png                                                  
 Displaystudent     - https://github.com/SudeekshaShetty24/Hostel-Management-System/blob/main/Output/DisplayStudent.png                                              
 Reportform         - https://github.com/SudeekshaShetty24/Hostel-Management-System/blob/main/Output/ReportForm.png                                                  
 ReportType         - https://github.com/SudeekshaShetty24/Hostel-Management-System/blob/main/Output/ReportType.png                                                   
